@@ -1,0 +1,148 @@
+[05:53:42] [main/INFO]: LiteLoader 1.12.2 starting up...
+[05:53:42] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[05:53:42] [main/INFO]: Java reports OS="windows 10"
+[05:53:42] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[05:53:42] [main/INFO]: Enumerating class path...
+[05:53:42] [main/INFO]: Class path separator=";"
+[05:53:42] [main/INFO]: Class path entries=(
+   classpathEntry=forge-1.12.2-14.23.4.2705-universal.jar
+)
+[05:53:42] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[05:53:42] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods]
+[05:53:42] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\1.12.2]
+[05:53:42] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@58cec85b]
+[05:53:42] [main/INFO]: Discovering valid mod files in folder mods
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'AbyssalCraft-1.12.2-1.9.4.9.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\AbyssalCraft-1.12.2-1.9.4.9.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ActuallyAdditions-1.12.2-r135.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ActuallyAdditions-1.12.2-r135.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'AdvancedRocketry-1.12.2-1.4.0-84-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\AdvancedRocketry-1.12.2-1.4.0-84-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ae2stuff-0.7.0.4-mc1.12.2.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ae2stuff-0.7.0.4-mc1.12.2.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'appliedenergistics2-rv5-stable-11.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\appliedenergistics2-rv5-stable-11.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'astralsorcery-1.12.2-1.8.10.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\astralsorcery-1.12.2-1.8.10.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Baubles-1.12-1.5.2.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Baubles-1.12-1.5.2.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'bdlib-1.14.3.12-mc1.12.2.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\bdlib-1.14.3.12-mc1.12.2.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'BiomesOPlenty-1.12.2-7.0.1.2391-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\BiomesOPlenty-1.12.2-7.0.1.2391-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'BloodMagic-1.12.2-2.2.12-97.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\BloodMagic-1.12.2-2.2.12-97.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'BrandonsCore-1.12-2.4.2.157-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\BrandonsCore-1.12-2.4.2.157-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Chisel-MC1.12.2-0.2.0.31.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Chisel-MC1.12.2-0.2.0.31.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.1.8.341-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\CodeChickenLib-1.12.2-3.1.8.341-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'CoFHCore-1.12.2-4.5.2.19-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\CoFHCore-1.12.2-4.5.2.19-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'CoFHWorld-1.12.2-1.2.0.5-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\CoFHWorld-1.12.2-1.2.0.5-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ComputerCraft1.80pr1.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ComputerCraft1.80pr1.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Draconic-Evolution-1.12-2.3.11.290-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Draconic-Evolution-1.12-2.3.11.290-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'DynamicTrees-1.12.2-0.7.7e.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\DynamicTrees-1.12.2-0.7.7e.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'DynamicTreesBOP-1.12.2-1.1d.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\DynamicTreesBOP-1.12.2-1.1d.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'DynamicTreesTC-1.12.2-0.1b.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\DynamicTreesTC-1.12.2-0.1b.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'EnderCore-1.12.2-0.5.30.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\EnderCore-1.12.2-0.5.30.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'EnderIO-1.12.2-5.0.26.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\EnderIO-1.12.2-5.0.26.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ExtraCells-1.12.2-2.5.13a58.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ExtraCells-1.12.2-2.5.13a58.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ExtremeReactors-1.12.2-0.4.5.49.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ExtremeReactors-1.12.2-0.4.5.49.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Ferdinand's+Flowers-1.10.1b-1.12.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Ferdinand's+Flowers-1.10.1b-1.12.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'fluxnetworks-1.12.2-3.0.11.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\fluxnetworks-1.12.2-3.0.11.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ForgeMultipart-1.12.2-2.4.2.58-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ForgeMultipart-1.12.2-2.4.2.58-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'FTBLib-5.1.0.21.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\FTBLib-5.1.0.21.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'FTBUtilities-5.1.0.26.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\FTBUtilities-5.1.0.26.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Guide-API-1.12-2.1.5-60.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Guide-API-1.12-2.1.5-60.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ImmersiveEngineering-0.12-82.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ImmersiveEngineering-0.12-82.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'immersivepetroleum-1.12.2-1.1.9.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\immersivepetroleum-1.12.2-1.1.9.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'industrialcraft-2-2.8.83-ex112.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\industrialcraft-2-2.8.83-ex112.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'LibVulpes-1.12.2-0.2.8-32-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\LibVulpes-1.12.2-0.2.8-32-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'liteloader-1.12.2-SNAPSHOT-release.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\liteloader-1.12.2-SNAPSHOT-release.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Mantle-1.12-1.3.2.24.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Mantle-1.12-1.3.2.24.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'mcjtylib-1.12-3.0.0.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\mcjtylib-1.12-3.0.0.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'MobGrindingUtils-0.3.6.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\MobGrindingUtils-0.3.6.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Morpheus-1.12-3.3.2.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Morpheus-1.12-3.3.2.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'MrTJPCore-1.12.2-2.1.2.34-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\MrTJPCore-1.12.2-2.1.2.34-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'naturalnetherportals-1.2.0-mc1.12.x.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\naturalnetherportals-1.2.0-mc1.12.x.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'pneumaticcraft-repressurized-1.12.2-0.6.6-192.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\pneumaticcraft-repressurized-1.12.2-0.6.6-192.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-Base.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-Base.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-compat.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-compat.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-fabrication.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-fabrication.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-integration.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-integration.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-lighting.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-lighting.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-mechanical.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-mechanical.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ProjectRed-1.12.2-4.9.0.86-world.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ProjectRed-1.12.2-4.9.0.86-world.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.0.2.3-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\RedstoneFlux-1.12-2.0.2.3-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'rftools-1.12-7.51.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\rftools-1.12-7.51.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'rftoolsdim-1.12-5.60.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\rftoolsdim-1.12-5.60.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'sonarcore-1.12.2-5.0.11.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\sonarcore-1.12.2-5.0.11.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'TConstruct-1.12.2-2.10.1.84.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\TConstruct-1.12.2-2.10.1.84.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'Thaumcraft-1.12.2-6.1.BETA16.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\Thaumcraft-1.12.2-6.1.BETA16.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'The+Beneath-1.12.2-1.4.1.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\The+Beneath-1.12.2-1.4.1.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ThermalDynamics-1.12.2-2.5.1.14-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ThermalDynamics-1.12.2-2.5.1.14-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ThermalExpansion-1.12.2-5.5.0.29-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ThermalExpansion-1.12.2-5.5.0.29-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ThermalFoundation-1.12.2-2.5.0.19-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\ThermalFoundation-1.12.2-2.5.0.19-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'twilightforest-1.12.2-3.7.424-universal.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\twilightforest-1.12.2-3.7.424-universal.jar
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'zerocore-1.12-0.1.2.2.jar'
+[05:53:42] [main/INFO]: Ignoring C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\zerocore-1.12-0.1.2.2.jar
+[05:53:42] [main/INFO]: Discovering valid mod files in folder mods\1.12.2
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'ChickenASM-1.12-1.0.2.7.jar'
+[05:53:42] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[05:53:42] [main/INFO]: Inspecting jar metadata in 'lib-mnmutils-1.3.1-mc1.11.2.litemod'
+[05:53:42] [main/INFO]: Not adding invalid or version-mismatched mod file: C:\Users\cyberpwn\Documents\development\workspace\AtaxicServer\mods\1.12.2\lib-mnmutils-1.3.1-mc1.11.2.litemod
+[05:53:42] [main/INFO]: Discovering tweaks on class path...
+[05:53:42] [main/INFO]: Registering discovered mod files in folder mods
+[05:53:42] [main/INFO]: Registering discovered mod files in folder mods\1.12.2
+[05:53:42] [main/INFO]: Mod file 'ChickenASM-1.12-1.0.2.7.jar' provides tweakClass 'codechicken.asm.internal.Tweaker', adding to Launch queue with priority 1000
+[05:53:42] [main/INFO]: tweakClass 'codechicken.asm.internal.Tweaker' was successfully added
+[05:53:42] [main/INFO]: Initialising LiteLoader Mixins
+[05:53:42] [main/INFO]: LiteLoader PREINIT complete
